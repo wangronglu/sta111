@@ -18,7 +18,7 @@ description: course website
 
 | Date | Lecture | Reading | Homework & Lab | Due |
 |------|---------|---------|----------------|-----|
-|   07/03   |   Introduction: Probability and Statistical Inference <br> Probability   |  | [Lab0](pages/lab0.html) |  |
+|   07/03   |   Introduction: Probability and Statistical Inference <br> Probability   |  | [Overview](pages/overview.html) |  |
 
 <!-- - [Overview](pages/overview.html) 
 - [Making an independent website](pages/independent_site.html) 
