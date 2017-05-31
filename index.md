@@ -5,7 +5,7 @@ tagline: Probability and Statistical Inference
 description: course website
 ---
 
-### Course Outline
+#### Course Outline
 * Instructor: [Lu Wang](https://www.linkedin.com/in/lu-wang-46b6b433/)
 * Lecture: M-F 12:30-1:45pm, Perkins LINK 088 (Classroom 4)
 * Lab: M 2:00-3:15pm, Old Chemistry 201
