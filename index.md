@@ -20,7 +20,7 @@ description: course website
 |------|---------|---------|----------------|-----|
 |   07/03   |   Introduction: Probability and Statistical Inference <br> Probability   |  | [Lab0](pages/lab0.html) |  |
 
-- [Overview](pages/overview.html) 
+<!-- - [Overview](pages/overview.html) 
 - [Making an independent website](pages/independent_site.html) 
 - [Making a personal site](pages/user_site.html) 
 - [Resources](pages/resources.html) 
