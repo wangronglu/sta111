@@ -10,7 +10,7 @@ description: course website
 * Lecture: M-F 12:30-1:45pm, Perkins LINK 088 (Classroom 4)
 * Lab: M 2:00-3:15pm, Old Chemistry 201
 * Office hours: T-F 2:00-3:00pm, Old Chemistry 211a
-* Textbook: [OpenIntro Statistics (3rd edition)](https://www.openintro.org/stat/textbook.php?stat_book=os)...
+* Textbook: [OpenIntro Statistics (3rd edition)](https://www.openintro.org/stat/textbook.php?stat_book=os) __
             (Optional) Probability and Statistics (4th edition), De Groot and Schervish
 
 ---
