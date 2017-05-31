@@ -11,7 +11,7 @@ description: course website
 * Lab: M 2:00-3:15pm, Old Chemistry 201
 * Office hours: T-F 2:00-3:00pm, Old Chemistry 211a
 * Textbook: [OpenIntro Statistics (3rd edition)](https://www.openintro.org/stat/textbook.php?stat_book=os) <br />
-  ..........(Optional) Probability and Statistics (4th edition), De Groot and Schervish
+           - (Optional) Probability and Statistics (4th edition), De Groot and Schervish
 
 ---
 
