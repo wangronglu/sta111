@@ -2,22 +2,21 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
-exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : STA 111
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Lu Wang
+  email : rl.wang@duke.edu
+  github : wangronglu
   feedburner : nil
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-production_url : http://kbroman.github.io/simple_site
+production_url : https://wangronglu.github.io/sta111
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -52,7 +51,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-  BASE_PATH : http://kbroman.org/simple_site
+  BASE_PATH : https://wangronglu.github.io/sta111
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
