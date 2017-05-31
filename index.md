@@ -18,7 +18,7 @@ description: course website
 
 | Date   | Lecture | Reading | Homework & Lab | Due |
 |------------|-------------------------------------------------------------------------------------------------|---------------------|----------------|-----|
-| 07/03 |&nbsp; Introduction: Probability and Statistical Inference &nbsp; <br> &nbsp; Probability   |  |&nbsp; [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) &nbsp; |  |
+| 07/03 | Introduction: Probability and Statistical Inference <br> Probability   |  | [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) |  |
 
 <!-- - [Overview](pages/overview.html) 
 - [Making an independent website](pages/independent_site.html) 
