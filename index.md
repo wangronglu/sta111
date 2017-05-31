@@ -20,6 +20,7 @@ description: course website
 |------------|-------------------------------------------------------------------------------------------------|---------------------|----------------|-----|
 | 07/03 | Introduction: Probability and Statistical Inference <br> Probability [Lec1.pdf](Lectures/deck0.pdf)  |  | [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) |  |
 
+
 <!-- - [Overview](pages/overview.html) 
 - [Making an independent website](pages/independent_site.html) 
 - [Making a personal site](pages/user_site.html) 
