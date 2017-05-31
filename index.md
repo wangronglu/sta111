@@ -16,9 +16,9 @@ description: course website
 ---
 #### Schedule
 
-| Date   | Lecture | Reading | Homework & Lab | Due |
-|-------------------------------|-------------------------------------------------------------------------------------------------------|----|------------------------------|-----|
-| 07/03 | Introduction: Probability and Statistical Inference <br> Probability <br> [Lec1.pdf](Lectures/deck0.pdf) |  | [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) |  |
+| Date | | Lecture | |Reading | | Homework & Lab | | Due |
+|------|---|---------------------|---|---------|---|----------|---|--------------|
+| 07/03 | | Introduction: Probability and Statistical Inference <br> Probability <br> [Lec1.pdf](Lectures/deck0.pdf) | |  | | [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) | |  |
 
 
 <!-- - [Overview](pages/overview.html) 
