@@ -19,7 +19,7 @@ description: course website
 
 | Date | | Lecture | |Reading | | Homework & Lab | | Due |
 |------|---|---------------------|---|---------|---|----------|---|--------------|
-| 07/03 | | Introduction & exploratory data analysis [Lec1.pdf](Lectures/deck0.pdf) <br> Lab: [Intro to R & Rstudio](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/intro_to_r/intro_to_r.html) [Intro to Data](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/intro_to_data/intro_to_data.html) | | Ch 1.2, 1.6 | |  | |  |
+| 07/03 | | Introduction & exploratory data analysis [Lec1.pdf](Lectures/deck0.pdf) <br> Lab: [Intro to R & Rstudio](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/intro_to_r/intro_to_r.html), [Intro to Data](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/intro_to_data/intro_to_data.html) | | Ch 1.2, 1.6 | | [lab1](Labs/lab1) | |  |
 
 
 ---
