@@ -19,7 +19,7 @@ description: course website
 
 | Date | | Lecture | |Reading | | Homework & Lab | | Due |
 |------|---|---------------------|---|---------|---|----------|---|--------------|
-| 07/03 | | Introduction & basics of probability [Lec1.pdf](Lectures/deck0.pdf) | |  | | [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) | |  |
+| 07/03 | | Introduction & exploratory data analysis [Lec1.pdf](Lectures/deck0.pdf) | | Ch 1.6 | | [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) | |  |
 
 
 ---
