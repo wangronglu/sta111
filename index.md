@@ -21,11 +21,12 @@ description: course website
 |------|---|---------------------|---|---------|---|----------|---|--------------|
 | 07/03 | | Introduction: Probability and Statistical Inference <br> Probability <br> [Lec1.pdf](Lectures/deck0.pdf) | |  | | [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) | |  |
 
+
 ---
 #### Evaluation
 * 15% Homework
-* 10% Lab
-* 5%  Attendence
+* 10% Labs
+* 5% Attendence
 * 20% Midterm exam (each)
 * 30% Final exam
 * Late work will be penalized 20% per day
