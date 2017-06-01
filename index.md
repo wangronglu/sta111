@@ -19,7 +19,7 @@ description: course website
 
 | Date | | Lecture | |Reading | | Homework & Lab | | Due |
 |------|---|---------------------|---|---------|---|----------|---|--------------|
-| 07/03 | | Introduction: Probability and Statistical Inference <br> Probability <br> [Lec1.pdf](Lectures/deck0.pdf) | |  | | [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) | |  |
+| 07/03 | | Introduction & basics of probability [Lec1.pdf](Lectures/deck0.pdf) | |  | | [Lab0](http://htmlpreview.github.io/?https://github.com/wangronglu/sta111/blob/gh-pages/Labs/labs0.html) | |  |
 
 
 ---
@@ -38,7 +38,10 @@ You may help each other on homework and labs, but the work you turn in must be y
 <!-- - [Overview](pages/overview.html) 
 - [Making an independent website](pages/independent_site.html) 
 - [Making a personal site](pages/user_site.html) 
-- [Resources](pages/resources.html) -->
+- [Resources](pages/resources.html) 
+<br> break line in table
+<br /> break line
+-->
 
 
 
