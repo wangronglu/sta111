@@ -1,0 +1,65 @@
+---
+title: 'STA 111: Lab 1'
+author: your name
+date:
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+# DO NOT ALTER CODE IN THIS CHUNK
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* * *
+#### 1: 
+This is an R Markdown lab report template. 
+Before we get started, let's save this file to the same folder where the data is stored. 
+You can embed an R code chunk like this:
+
+```{r chunk_name, fig.height=5, fig.width=5, fig.align="center"}
+load("cdc.RData")
+
+hist(cdc$age, breaks=30, col="lightblue")
+# code for Exercise 1
+```
+
+Try clicking the **Knit** button and a pdf document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+You can specify the height and width of the figure generated through `fig.height` and `fig.width`.
+
+Enter your response for Exercise 1.
+
+#### 2:
+
+```{r, echo=FALSE}
+# enter your code for Exercise 2 here
+```
+
+You can add `echo = FALSE` to the code chunk to prevent printing of the R code. Sometimes you may need `message=FALSE` to suppress any R warnings or messages from being included in the final document.
+
+Enter your response for Exercise 2.
+
+You can use ordered list like
+
+1. item 1
+2. item 2
+    + sub-item
+
+or unordered list like
+
+* item 1
+* item 2
+    + sub-item
+
+#### 3:
+
+```{r, results='hide'}
+summary(cdc)
+# enter your code for Exercise 3 here
+```
+
+Conversely, you may want to see the code, but not the output once the code is evalutated. To do so, you can add `results='hide'`.
+
+To include a chunk that is evaluated, but neither the code nor the results are displayed, you can add `include=FALSE`.
+
+
