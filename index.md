@@ -19,11 +19,11 @@ description: course website
 
 | Date | | Lecture | |Reading | | Homework & Lab | | Due |
 |------|---|---------------------|---|---------|---|----------|---|--------------|
-| 07/03 || Introduction & exploratory data analysis [Lec1.pdf](Lectures/lec1H.pdf) <br> Lab: [Intro to R & Rstudio](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/intro_to_r/intro_to_r.html), [Intro to Data](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/intro_to_data/intro_to_data.html) || Ch 1.2,1.6 | | [lab1](Labs/lab1.pdf) <br> [cdc.RData](Labs/cdc.RData) <br> [lab_report_template](Labs/rmarkdown_lab_report_template.Rmd) <br> [rmarkdown-cheatsheet](Labs/rmarkdown-cheatsheet.pdf) | | 07/07 5pm |
+| 07/03 || Introduction & exploratory data analysis [Lec1.pdf](Lectures/lec1H.pdf) <br> Lab: [Intro to R & Rstudio](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/intro_to_r/intro_to_r.html), [Intro to Data](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/intro_to_data/intro_to_data.html) || Ch 1.2,1.6 | | [lab1](Labs/lab1.pdf) <br> [cdc.RData](Labs/cdc.RData) <br> [lab_report_template](Labs/rmarkdown_lab_report_template.Rmd) <br> [rmarkdown-cheatsheet](Labs/rmarkdown-cheatsheet.pdf) || 07/07 5pm |
 | 07/05 || Probability [Lec2.pdf] || Ch 2.1 || Homework 1 || 07/12 |
 | 07/06 || Conditional probability [Lec3.pdf] || Ch 2.2|| || |
 | 07/07 || Random variable & discrete distributions [Lec4.pdf] || Ch 2.4, 3.3, 3.4 || || |
-| 07/10 || Normal distribution [Lec5.pdf] || Ch 2.5, 3.1, 3.2 || || |
+| 07/10 || Normal distribution [Lec5.pdf] <br> Lab: [Distribution](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/normal_distribution/normal_distribution.html) || Ch 2.5, 3.1, 3.2 || Lab2: On your own 1, 2, 3 || 07/14 5pm |
 
 
 ---
