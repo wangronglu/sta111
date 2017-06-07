@@ -23,6 +23,7 @@ description: course website
 | 07/05 || Probability [Lec2.pdf] || Ch 2.1 || Homework 1 || 07/12 |
 | 07/06 || Conditional probability [Lec3.pdf] || Ch 2.2|| || |
 | 07/07 || Random variable & discrete distributions [Lec4.pdf] || Ch 2.4, 3.3, 3.4 || || |
+| 07/10 || Normal distribution [Lec5.pdf] || Ch 2.5, 3.1, 3.2 || || |
 
 
 ---
