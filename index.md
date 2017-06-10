@@ -28,7 +28,7 @@ description: course website
 | 07/12 || Confidence Intervals [Lec7.pdf] || Ch 4.2 || ||  |
 | 07/13 || Hypothesis Testing [Lec8.pdf] || Ch 4.3 || || |
 | 07/14 || Hypothesis Testing (cont.) & Review || || || | <!-- 2nd week end -->
-| 07/17 || Midterm 1 <br> Lab: [Sampling distributions](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/sampling_distributions/sampling_distributions.html), [Confidence Intervals](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/confidence_intervals/confidence_intervals.html) || || Lab3: On your own (Confidence Intervals) 1, 2, 3 || 07/21 5pm |
+| 07/17 || Midterm 1 (bring calculator + cheat sheet) <br> Lab: [Sampling distributions](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/sampling_distributions/sampling_distributions.html), [Confidence Intervals](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/confidence_intervals/confidence_intervals.html) || || Lab3: On your own (Confidence Intervals) 1, 2, 3 || 07/21 5pm |
 
 
 ---
