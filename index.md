@@ -24,14 +24,14 @@ description: course website
 | 07/06 || Conditional probability [Lec3.pdf] || Ch 2.2|| || |
 | 07/07 || Random variable & discrete distributions [Lec4.pdf] || Ch 2.4, 3.3, 3.4 || || |<!-- 1st week end -->
 | 07/10 || Normal distribution [Lec5.pdf] <br> Lab: [Distribution](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/normal_distribution/normal_distribution.html) || Ch 2.5, 3.1, 3.2 || Lab2: On your own 1, 2, 3 || 07/14 5pm |
-| 07/11 || Variability in Estimates [Lec6.pdf] || Ch 4.1 || Homework 2 || 07/19 |
-| 07/12 || Confidence Intervals [Lec7.pdf] || Ch 4.2 || ||  |
-| 07/13 || Hypothesis Testing [Lec8.pdf] || Ch 4.3 || || |
-| 07/14 || Hypothesis Testing (cont.) & Review || || || | <!-- 2nd week end -->
+| 07/11 || Variability in estimates [Lec6.pdf] || Ch 4.1 || Homework 2 || 07/19 |
+| 07/12 || Confidence intervals [Lec7.pdf] || Ch 4.2 || ||  |
+| 07/13 || Hypothesis testing [Lec8.pdf] || Ch 4.3 || || |
+| 07/14 || Hypothesis testing (cont.) & Review || || || | <!-- 2nd week end -->
 | 07/17 || Midterm 1 (bring calculator + cheat sheet) <br> Lab: [Sampling distributions](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/sampling_distributions/sampling_distributions.html), [Confidence Intervals](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/confidence_intervals/confidence_intervals.html) || || Lab3: On your own (Confidence Intervals) 1, 2, 3 || 07/21 5pm |
-| 07/18 || Hypothesis Testing (decision errors, power, etc) || Ch 5.4 || || |
-| 07/19 || Inference using the t distribution [Lec9.pdf] || Ch 5.1 - 5.3 || || || 
-| 07/20 || Bootstrap Intervals [Lec10.pdf] || || ||  |
+| 07/18 || Inference using the t distribution [Lec9.pdf] || Ch 5.1 - 5.3 || || || 
+| 07/19 || Bootstrap intervals [Lec10.pdf] || || ||  |
+| 07/20 || Decision errors & power [Lec11.pdf] || Ch 5.4 || || |
 | 07/21 || ANOVA    || Ch || || | <!-- 3rd week end -->
 | 07/24 || Lecture <br> Lab4: Construct bootstrap intervals || Ch || Lab4, movies20.RData || 07/28 5pm |
 
