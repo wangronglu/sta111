@@ -33,7 +33,7 @@ description: course website
 | 07/19 || Bootstrap Intervals [Lec10.pdf] || || ||  |
 | 07/20 || power    || Ch || || |
 | 07/21 || ANOVA    || Ch || || | <!-- 3rd week end -->
-| 07/24 || Lecture <br> Lab4: Construct bootstrap intervals || Ch || Lab4, movies20.RData || |
+| 07/24 || Lecture <br> Lab4: Construct bootstrap intervals || Ch || Lab4, movies20.RData || 07/28 5pm |
 
 
 ---
