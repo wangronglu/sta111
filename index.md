@@ -29,10 +29,10 @@ description: course website
 | 07/13 || Hypothesis testing [Lec8.pdf] || Ch 4.3 || || |
 | 07/14 || Hypothesis testing (cont.) & Review || || || | <!-- 2nd week end -->
 | 07/17 || Midterm 1 (bring calculator + cheat sheet) <br> Lab: [Sampling distributions](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/sampling_distributions/sampling_distributions.html), [Confidence Intervals](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/confidence_intervals/confidence_intervals.html) || || Lab3: On your own (Confidence Intervals) 1, 2, 3 || 07/21 5pm |
-| 07/18 || Inference using the t distribution [Lec9.pdf] || Ch 5.1 - 5.3 || || || 
+| 07/18 || Inference using the t distribution [Lec9.pdf] || Ch 5.1 - 5.3 || Homework 3 || 07/26 || 
 | 07/19 || Bootstrap intervals [Lec10.pdf] || || ||  |
 | 07/20 || Decision errors & power [Lec11.pdf] || Ch 5.4 || || |
-| 07/21 || ANOVA    || Ch || || | <!-- 3rd week end -->
+| 07/21 || ANOVA [Lec12.pdf]  || Ch 5.5 || || | <!-- 3rd week end -->
 | 07/24 || Lecture <br> Lab4: Construct bootstrap intervals || Ch || Lab4, movies20.RData || 07/28 5pm |
 
 
