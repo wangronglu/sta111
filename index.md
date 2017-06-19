@@ -35,6 +35,8 @@ description: course website
 | 07/21 || ANOVA [Lec12.pdf]  || Ch 5.5 || || | <!-- 3rd week end -->
 | 07/24 || Inference for a single proportion [Lec13.pdf] <br> Lab4: Construct bootstrap intervals [Lab4.pdf] || Ch 6.1 || Lab4, movies20.RData || 07/28 5pm |
 | 07/25 || Difference of two proportions [Lec14.pdf] || Ch 6.2 ||  ||  |
+| 07/26 || Chi-square test of goodness of fit [Lec15.pdf] || Ch 6.3 || || |
+| 07/27 || Chi-square test of independence [Lec16.pdf] || Ch 6.4 || || |
 
 
 ---
