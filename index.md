@@ -38,7 +38,7 @@ description: course website
 | 07/26 || Chi-square test of goodness of fit [Lec15.pdf] || Ch 6.3 || || |
 | 07/27 || Chi-square test of independence [Lec16.pdf] || Ch 6.4 || || |
 | 07/28 || Small sample hypothesis testing [Lec17.pdf] & Review || || || |
-| 07/31 || Midterm 2 (bring calculator + cheat sheet) <br> Lab: [Inference for categorical data](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/inf_for_categorical_data/inf_for_categorical_data.html) || Lab5: On your own 1, 2, 3 || 08/04 5pm |
+| 07/31 || Midterm 2 (bring calculator + cheat sheet) <br> Lab: [Inference for categorical data](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/inf_for_categorical_data/inf_for_categorical_data.html) || || Lab5: On your own 1, 2, 3 || 08/04 5pm |
 
 
 ---
