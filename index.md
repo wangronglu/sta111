@@ -29,12 +29,12 @@ description: course website
 | 07/13 || Hypothesis testing [Lec8.pdf] || Ch 4.3 || || |
 | 07/14 || Hypothesis testing (cont.) & Review || || || | <!-- 2nd week end -->
 | 07/17 || Midterm 1 (bring calculator + cheat sheet) <br> Lab: [Sampling distributions](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/sampling_distributions/sampling_distributions.html), [Confidence Intervals](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/confidence_intervals/confidence_intervals.html) || || Lab3: On your own (Confidence Intervals) 1, 2, 3 || 07/21 5pm |
-| 07/18 || Inference using the t distribution [Lec9.pdf] || Ch 5.1 - 5.3 || Homework 3 || 07/26 || 
+| 07/18 || Inference using the t distribution [Lec9.pdf] || Ch 5.1 - 5.3 || Homework 3 || 07/26 |
 | 07/19 || Bootstrap intervals [Lec10.pdf] || || ||  |
 | 07/20 || Decision errors & power [Lec11.pdf] || Ch 5.4 || || |
 | 07/21 || ANOVA [Lec12.pdf]  || Ch 5.5 || || | <!-- 3rd week end -->
 | 07/24 || Inference for a single proportion [Lec13.pdf] <br> Lab4: Construct bootstrap intervals [Lab4.pdf] || Ch 6.1 || Lab4, movies20.RData || 07/28 5pm |
-| 07/25 || Difference of two proportions [Lec14.pdf] || Ch 6.2 ||  ||  |
+| 07/25 || Difference of two proportions [Lec14.pdf] || Ch 6.2 || Homework 4 || 08/02 |
 | 07/26 || Chi-square test of goodness of fit [Lec15.pdf] || Ch 6.3 || || |
 | 07/27 || Chi-square test of independence [Lec16.pdf] || Ch 6.4 || || |
 | 07/28 || Small sample hypothesis testing [Lec17.pdf] & Review || Ch 6.5 - 6.6 || || |
