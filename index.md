@@ -42,6 +42,7 @@ description: course website
 | 08/01 || Introduction to linear regression [Lec18.pdf] || Ch 7.1 - 7.2 || Homework 5 || 08/07 |
 | 08/02 || Conditions for least squares regression and types of outliers [Lec19.pdf] || Ch 7.2 - 7.3 || || |
 | 08/03 || Inference for linear regression [Lec20.pdf] || Ch 7.4 || || |
+| 08/04 || Introduction to multiple linear regression [Lec21.pdf] || Ch 8.1 || || |
 
 ---
 #### Evaluation
