@@ -43,7 +43,7 @@ description: course website
 | 08/02 || Conditions for least squares regression and types of outliers [Lec19.pdf] || Ch 7.2 - 7.3 || || |
 | 08/03 || Inference for linear regression [Lec20.pdf] || Ch 7.4 || || |
 | 08/04 || Introduction to multiple linear regression [Lec21.pdf] || Ch 8.1 || || | <!-- 5th week end -->
-| 08/07 || Model selection and conditions for MLR [Lec22.pdf] <br> Lab: [Linear regression](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/simple_regression/simple_regression.html) || Ch 8.2 - 8.3 || || Lab6: On your own 1, 2, 5 || 08/10 5pm |
+| 08/07 || Model selection and conditions for MLR [Lec22.pdf] <br> Lab: [Linear regression](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/simple_regression/simple_regression.html) || Ch 8.2 - 8.3 || Lab6: On your own 1, 2, 5 || 08/10 5pm |
 
 
 ---
