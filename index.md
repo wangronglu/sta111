@@ -33,7 +33,7 @@ description: course website
 | 07/19 || Bootstrap intervals [Lec10.pdf] || || ||  |
 | 07/20 || Decision errors & power [Lec11.pdf] || Ch 5.4 || || |
 | 07/21 || ANOVA [Lec12.pdf]  || Ch 5.5 || || | <!-- 3rd week end -->
-| 07/24 || Inference for a single proportion [Lec13.pdf] <br> Lab4: Construct bootstrap intervals [Lab4.pdf] || Ch 6.1 || Lab4, movies20.RData || 07/28 5pm |
+| 07/24 || Inference for a single proportion [Lec13.pdf] <br> Lab: Construct bootstrap intervals [Lab4.pdf] || Ch 6.1 || Lab4, movies20.RData || 07/28 5pm |
 | 07/25 || Difference of two proportions [Lec14.pdf] || Ch 6.2 || Homework 4 || 07/31 |
 | 07/26 || Chi-square test of goodness of fit [Lec15.pdf] || Ch 6.3 || || |
 | 07/27 || Chi-square test of independence [Lec16.pdf] || Ch 6.4 || || |
@@ -42,7 +42,9 @@ description: course website
 | 08/01 || Introduction to linear regression [Lec18.pdf] || Ch 7.1 - 7.2 || Homework 5 || 08/07 |
 | 08/02 || Conditions for least squares regression and types of outliers [Lec19.pdf] || Ch 7.2 - 7.3 || || |
 | 08/03 || Inference for linear regression [Lec20.pdf] || Ch 7.4 || || |
-| 08/04 || Introduction to multiple linear regression [Lec21.pdf] || Ch 8.1 || || |
+| 08/04 || Introduction to multiple linear regression [Lec21.pdf] || Ch 8.1 || || | <!-- 5th week end -->
+| 08/05 || Model selection and conditions for MLR [Lec22.pdf] <br> Lab: [Linear regression](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/simple_regression/simple_regression.html) || Ch 8.2 - 8.3 || || Lab6: On your own 1, 2, 5 || 08/10 5pm |
+
 
 ---
 #### Evaluation
