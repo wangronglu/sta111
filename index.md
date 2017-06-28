@@ -7,6 +7,7 @@ description: course website
 
 #### Course Information
 * Instructor: [Lu Wang](https://stat.duke.edu/people/lu-wang)
+* TA: [Yizheng Wang](https://stat.duke.edu/people/yizheng-wang)
 * Lecture: M-F 12:30-1:45pm, Perkins LINK 088 (Classroom 4)
 * Lab: M 2:00-3:15pm, Old Chemistry 201
 * Office hours: T-F 2:00-3:00pm, Old Chemistry 211a 
