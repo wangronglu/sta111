@@ -61,7 +61,7 @@ description: course website
 
 **Academic Honesty**:You are expected to uphold the Duke Community Standard. Any cheating will be reported to the Office of Student Conduct and will result in penalties ranging from a zero on the assignment to failing the course. Cheating includes, but is not limited to: using unauthorized materials during quizzes and exams; copying another student's solutions; copying from a solutions manual; copying a solution found on the internet; asking someone else to solve problems for you; or otherwise turning in work which is not your own. 
 
-You may help each other on homework and labs, but the work you turn in must be your own. You must work alone during exams and quizzes.
+You may help each other on homework and labs, but the work you turn in must be your own. You must work alone during exams.
 
 <!-- - [Overview](pages/overview.html) 
 - [Making an independent website](pages/independent_site.html) 
