@@ -24,6 +24,7 @@ description: course website
 | 07/05 || Probability [Lec2.pdf](Lectures/lec2H.pdf) <br> Conditional probability [Lec3.pdf](Lectures/lec3H.pdf) || Ch 2.1 - 2.2 || Homework 1 || 07/10 5pm|
 | 07/06 || Random variable & discrete distributions [Lec4.pdf](Lectures/lec4H.pdf) || Ch 2.4, 3.3, 3.4 || || |
 | 07/07 || Normal distribution [Lec5.pdf](Lectures/lec5H.pdf) || Ch 2.5, 3.1, 3.2 || || |<!-- 1st week end -->
+---
 | 07/10 ||  <br> Lab: [Distribution](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/normal_distribution/normal_distribution.html) ||  || Lab2: On your own 1, 2, 3 || 07/14 5pm |
 | 07/11 || Variability in estimates [Lec6.pdf] || Ch 4.1 || Homework 2 || 07/17 5pm|
 | 07/12 || Confidence intervals [Lec7.pdf] || Ch 4.2 || ||  |
