@@ -25,7 +25,7 @@ description: course website
 | 07/06 || Random variable & discrete distributions [Lec4.pdf](Lectures/lec4H.pdf) || Ch 2.4, 3.3, 3.4 || || |
 | 07/07 || Normal distribution [Lec5.pdf](Lectures/lec5H.pdf) || Ch 2.5, 3.1, 3.2 || || |<!-- 1st week end -->
 | 07/10 || Variability in estimates [Lec6.pdf](Lectures/lec6H.pdf) <br> Lab: [Distribution](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/normal_distribution/normal_distribution.html) || Ch 4.1 || Lab2: On your own 1, 2, 3 <br> Homework 2 || 07/14 5pm <br> 07/17 5pm |
-| 07/11 || Confidence intervals [Lec7.pdf] || Ch 4.2 || ||  |
+| 07/11 || Confidence intervals [Lec7.pdf](Lectures/lec7H.pdf) || Ch 4.2 || ||  |
 | 07/12 || Hypothesis testing [Lec8.pdf] || Ch 4.3 || || |
 | 07/13 || Hypothesis testing (cont.) || Ch 4.3 || || | 
 | 07/14 || Review || || || | <!-- 2nd week end -->
