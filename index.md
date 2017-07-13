@@ -28,7 +28,7 @@ description: course website
 | 07/11 || Confidence intervals [Lec7.pdf](Lectures/lec7H.pdf) || Ch 4.2 || ||  |
 | 07/12 || Hypothesis testing [Lec8.pdf](Lectures/lec8H.pdf) || Ch 4.3 || || |
 | 07/13 || [learning_objectives_ch2](Lectures/os3_learning_objectives_02_probability.pdf) <br> [learning_objectives_ch3](Lectures/os3_learning_objectives_03_distributions.pdf) <br> [learning_objectives_ch4](Lectures/os3_learning_objectives_04_inference.pdf) ||  || || | 
-| 07/14 <br> ------- || Practice Review <br> --------- || || || | <!-- 2nd week end -->
+| 07/14 <br> ------ || Practice Review <br> --------- || || || | <!-- 2nd week end -->
 | 07/17 || Midterm 1 (bring calculator + cheat sheet) <br> Lab: [Sampling distributions](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/sampling_distributions/sampling_distributions.html), [Confidence Intervals](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/confidence_intervals/confidence_intervals.html) || || Lab3: On your own (Confidence Intervals) 1, 2, 3 || 07/21 5pm |
 | 07/18 || Inference using the t distribution [Lec9.pdf] || Ch 5.1 - 5.3 || Homework 3 || 07/24 5pm|
 | 07/19 || Bootstrap intervals [Lec10.pdf] || || ||  |
