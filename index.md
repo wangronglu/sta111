@@ -34,7 +34,7 @@ description: course website
 | 07/19 || Bootstrap intervals [Lec10.pdf](Lectures/lec10H.pdf) || || ||  |
 | 07/20 || Decision errors & power [Lec11.pdf](Lectures/lec11H.pdf) || Ch 5.4 || || |
 | 07/21 || ANOVA [Lec12.pdf](Lectures/lec12H.pdf)  || Ch 5.5 || || | <!-- 3rd week end -->
-| 07/24 || Inference for a single proportion [Lec13.pdf] <br> Lab: Construct bootstrap intervals [Lab4.pdf] || Ch 6.1 || Lab 4, movies20.RData || 07/28 5pm |
+| 07/24 || Inference for a single proportion [Lec13.pdf] <br> Lab: Construct bootstrap intervals [Lab4.pdf](Labs/lab4.pdf) || Ch 6.1 || Lab 4, [movies20.RData](Labs/movies20.RData) || 07/28 5pm |
 | 07/25 || Difference of two proportions [Lec14.pdf] || Ch 6.2 || Homework 4 || 07/31 5pm|
 | 07/26 || Chi-square test of goodness of fit [Lec15.pdf] || Ch 6.3 || || |
 | 07/27 || Chi-square test of independence [Lec16.pdf] || Ch 6.4 || || |
