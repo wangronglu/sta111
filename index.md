@@ -36,7 +36,7 @@ description: course website
 | 07/21 || ANOVA [Lec12.pdf](Lectures/lec12H.pdf)  || Ch 5.5 || || | <!-- 3rd week end -->
 | 07/24 || Inference for a single proportion [Lec13.pdf](Lectures/lec13H.pdf) <br> Lab: Construct bootstrap intervals [Lab4.pdf](Labs/lab4.pdf) || Ch 6.1 || Lab 4, [movies20.RData](Labs/movies20.RData) || 07/28 5pm |
 | 07/25 || Difference of two proportions [Lec14.pdf](Lectures/lec14H.pdf) || Ch 6.2 || Homework 4 || 07/31 5pm|
-| 07/26 || Chi-square test of goodness of fit [Lec15.pdf] || Ch 6.3 || || |
+| 07/26 || Chi-square test of goodness of fit [Lec15.pdf](Lectures/lec15H.pdf) || Ch 6.3 || || |
 | 07/27 || Chi-square test of independence [Lec16.pdf] || Ch 6.4 || || |
 | 07/28 || Small sample hypothesis testing [Lec17.pdf] & Review || Ch 6.5 - 6.6 || || | <!-- 4th week end -->
 | 07/31 || Midterm 2 (bring calculator + cheat sheet) <br> Lab: [Inference for categorical data](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/inf_for_categorical_data/inf_for_categorical_data.html) || || Lab 5: On your own 1, 2, 3 || 08/04 5pm |
