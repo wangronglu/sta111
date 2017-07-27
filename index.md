@@ -37,8 +37,8 @@ description: course website
 | 07/24 || Inference for a single proportion [Lec13.pdf](Lectures/lec13H.pdf) <br> Lab: Construct bootstrap intervals [Lab4.pdf](Labs/lab4.pdf) || Ch 6.1 || Lab 4, [movies20.RData](Labs/movies20.RData) || 07/28 5pm |
 | 07/25 || Difference of two proportions [Lec14.pdf](Lectures/lec14H.pdf) || Ch 6.2 || Homework 4 || 07/31 5pm|
 | 07/26 || Chi-square test of goodness of fit [Lec15.pdf](Lectures/lec15H.pdf) || Ch 6.3 || || |
-| 07/27 <br> ------|| Chi-square test of independence [Lec16.pdf](Lectures/lec16H.pdf) <br> Small sample hypothesis testing [Lec17.pdf](Lectures/lec17H.pdf) <br> ---------|| Ch 6.4 - 6.6 || || |
-| 07/28 <br> <br> ------||  Practice Review <br> [learning_objectives_ch5](Lectures/os3_learning_objectives_05.pdf) <br> [learning_objectives_ch6](Lectures/os3_learning_objectives_06.pdf) <br> --------- ||  || || | <!-- 4th week end -->
+| 07/27 <br> <br> ------|| Chi-square test of independence [Lec16.pdf](Lectures/lec16H.pdf) <br> Small sample hypothesis testing [Lec17.pdf](Lectures/lec17H.pdf) <br> ---------|| Ch 6.4 - 6.6 || || |
+| 07/28 <br> <br> <br> ------||  Practice Review <br> [learning_objectives_ch5](Lectures/os3_learning_objectives_05.pdf) <br> [learning_objectives_ch6](Lectures/os3_learning_objectives_06.pdf) <br> --------- ||  || || | <!-- 4th week end -->
 | 07/31 || Midterm 2 (bring calculator + cheat sheet) <br> Lab: [Inference for categorical data](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/inf_for_categorical_data/inf_for_categorical_data.html) || || Lab 5: On your own 1, 2, 3 || 08/04 5pm |
 | 08/01 || Introduction to linear regression [Lec18.pdf] || Ch 7.1 - 7.2 || Homework 5 || 08/07 5pm|
 | 08/02 || Conditions for least squares regression and types of outliers [Lec19.pdf] || Ch 7.2 - 7.3 || || |
