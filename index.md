@@ -43,7 +43,7 @@ description: course website
 | 08/01 || Introduction to linear regression [Lec18.pdf](Lectures/lec18H.pdf) || Ch 7.1 - 7.2 || Homework 5 || 08/07 5pm|
 | 08/02 || Conditions for least squares regression and types of outliers [Lec19.pdf](Lectures/lec19H.pdf) || Ch 7.2 - 7.3 || || |
 | 08/03 || Inference for linear regression [Lec20.pdf](Lectures/lec20H.pdf) || Ch 7.4 || || |
-| 08/04 || Introduction to multiple linear regression [Lec21.pdf] || Ch 8.1 || || | <!-- 5th week end -->
+| 08/04 || Introduction to multiple linear regression [Lec21.pdf](Lectures/lec21H.pdf) || Ch 8.1 || || | <!-- 5th week end -->
 | 08/07 || Model selection and conditions for MLR [Lec22.pdf] <br> Lab: [Linear regression](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/simple_regression/simple_regression.html) || Ch 8.2 - 8.3 || Lab 6: On your own 1, 2, 5 || 08/10 5pm |
 | 08/08 || Log transformation [Lec23.pdf] || || |
 | 08/09 || Logistic regression [Lec24.pdf] || Ch 8.4 || |
@@ -54,7 +54,7 @@ description: course website
 #### Evaluation
 * 15% Homework
 * 10% Labs
-* 5% Attendence
+* 5% Attendance
 * 20% Midterm exam (each)
 * 30% Final exam
 * Late work will be penalized 20% per day
