@@ -48,7 +48,7 @@ description: course website
 | 08/08 || Log transformation [Lec23.pdf] || || |
 | 08/09 || Logistic regression [Lec24.pdf] || Ch 8.4 || |
 | 08/10 || Final Exam Review [Lec25.pdf] || || |
-| 08/11 || 7pm - 10pm Final Exam (bring calculator + cheat sheet) || || |
+| 08/11 || 7pm - 10pm Final Exam, Sociology-Psychology 129 <br> (bring calculator + cheat sheet) || || |
 
 ---
 #### Evaluation
