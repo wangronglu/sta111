@@ -43,11 +43,11 @@ description: course website
 | 08/01 || Introduction to linear regression [Lec18.pdf](Lectures/lec18H.pdf) || Ch 7.1 - 7.2 || Homework 5 || 08/07 5pm|
 | 08/02 || Conditions for least squares regression and types of outliers [Lec19.pdf](Lectures/lec19H.pdf) || Ch 7.2 - 7.3 || || |
 | 08/03 || Inference for linear regression [Lec20.pdf](Lectures/lec20H.pdf) || Ch 7.4 || || |
-| 08/04 || Introduction to multiple linear regression [Lec21.pdf](Lectures/lec21H.pdf) || Ch 8.1 || || | <!-- 5th week end -->
-| 08/07 || Model selection and conditions for MLR [Lec22.pdf] <br> Lab: [Linear regression](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/simple_regression/simple_regression.html) || Ch 8.2 - 8.3 || Lab 6: On your own 1, 2, 5 || 08/10 5pm |
-| 08/08 || Log transformation [Lec23.pdf] || || |
-| 08/09 <br> ------ || Logistic regression [Lec24.pdf] <br> ---------  || Ch 8.4 || |
-| 08/10 <br> <br> <br> ------ || Final Exam Review [Lec25.pdf] <br> [learning_objectives_ch7](Lectures/os3_learning_objectives_07.pdf) <br> [learning_objectives_ch8](Lectures/os3_learning_objectives_08.pdf) <br> --------- || || |
+| 08/04 <br> ------ || Introduction to multiple linear regression [Lec21.pdf](Lectures/lec21H.pdf) <br> ---------|| Ch 8.1 || || | <!-- 5th week end -->
+| 08/07 || Model selection and conditions for MLR [Lec22.pdf](Lectures/lec22H.pdf) <br> Log transformation [Lec23.pdf](Lectures/lec23H.pdf) <br> Lab: [Linear regression](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/simple_regression/simple_regression.html) || Ch 8.2 - 8.3 || Lab 6: On your own 1, 2, 5 || 08/10 5pm |
+| 08/08 || Logistic regression [Lec24.pdf] || Ch 8.4 || |
+| 08/09 <br> <br> ------ || No class <br> [learning_objectives_ch7](Lectures/os3_learning_objectives_07.pdf) <br> [learning_objectives_ch8](Lectures/os3_learning_objectives_08.pdf)<br> ---------  ||  || |
+| 08/10 <br> ------ || Final Exam Review [Lec25.pdf] <br> --------- || || |
 | 08/11 || 7pm - 10pm Final Exam <br> Location: Sociology-Psychology 129 <br> (bring calculator + cheat sheet) || || |
 
 ---
