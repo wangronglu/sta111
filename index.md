@@ -47,7 +47,7 @@ description: course website
 | 08/07 || Model selection and conditions for MLR [Lec22.pdf](Lectures/lec22H.pdf) <br> Log transformation [Lec23.pdf](Lectures/lec23H.pdf) <br> Lab: [Linear regression](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/simple_regression/simple_regression.html) || Ch 8.2 - 8.3 || Lab 6: On your own 1, 2, 5 || 08/10 5pm |
 | 08/08 <br> ------|| Logistic regression [Lec24.pdf](Lectures/lec24H.pdf) <br> --------- || Ch 8.4 || |
 | 08/09 <br> <br> <br> ------ || No class <br> [learning_objectives_ch7](Lectures/os3_learning_objectives_07.pdf) <br> [learning_objectives_ch8](Lectures/os3_learning_objectives_08.pdf)<br> ---------  ||  || |
-| 08/10 <br> ------ || Final Exam Review [Lec25.pdf] <br> --------- || || |
+| 08/10 <br> ------ || Final Exam Practice Review [Lec25.pdf](Lectures/lec25H.pdf) <br> --------- || || |
 | 08/11 || 7pm - 10pm Final Exam <br> Location: Sociology-Psychology 129 <br> (bring calculator + cheat sheet) || || |
 
 ---
